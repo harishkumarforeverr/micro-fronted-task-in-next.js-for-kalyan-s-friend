@@ -1,0 +1,164 @@
+.headerContent {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.headerContent .header-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.headerContent .logo {
+  width: 100px;
+  height: 100px;
+  /* background-color: #fff; */
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.headerContent h1 {
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: 2px;
+}
+
+.headerContent p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.headerContent .nav-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.headerContent .nav-links li {
+  margin: 0 10px;
+}
+
+.headerContent .nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.headerContent .cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #fff;
+  color: #333;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.headerContent .cta-button:hover {
+  background-color: #eee;
+}
+
+.headerContent .header-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.headerContent .info-box {
+  flex-basis: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.headerContent .info-box h3 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.headerContent .info-box p {
+  margin: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ .bodyContent {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 20px;
+}
+
+.bodyContent h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.bodyContent p {
+  color: #555;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.bodyContent .main-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.bodyContent .section {
+  margin-bottom: 40px;
+}
+
+.bodyContent .section-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.bodyContent .section-content {
+  color: #777;
+}
+
+.bodyContent .image-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.bodyContent .image {
+  max-width: 100%;
+  height: auto;
+}
