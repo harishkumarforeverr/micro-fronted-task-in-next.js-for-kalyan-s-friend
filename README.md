@@ -10,9 +10,9 @@ https://medium.com/@metinarslanturkk/how-i-implemented-dynamic-loaded-framework-
 
 For a __development run__, follow steps order respectively (in different terminal tabs):
 
-- Execute ```yarn server``` in _react-remote_ folder
-- Execute ```yarn dev``` in _react-remote_ folder
-- Execute ```yarn dev``` in _next-host_ folder
+- Execute ```npm run server``` in _react-remote_ folder
+- Execute ```npm run dev``` in _react-remote_ folder
+- Execute ```npm run dev``` in _next-host_ folder
 
 Go to http://localhost:3000 Check it and have fun.
 
